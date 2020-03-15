@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://pahsoowout.wink-toolkit.fr/sitemap.xml
